@@ -9,8 +9,6 @@ V1:
 Esse exemplo mostra como o princípio de Liskov é violado quando uma subclasse (CEO) lança uma exceção ao tentar se comportar como a classe base (Funcionário). Na versão refatorada, cada cargo (CEO, Gerente, Analista) estende uma classe abstrata "Cargo" e implementa seu próprio comportamento, respeitando o princípio.
 -------------------------------------
 
-
-
 -------------------------------------
 V2:
 -------------------------------------

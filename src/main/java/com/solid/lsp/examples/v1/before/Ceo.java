@@ -1,6 +1,6 @@
 package com.solid.lsp.examples.v1.before;
 
-public class CEO extends Funcionario{
+public class Ceo extends Funcionario{
 
     @Override
     public void trabalhar() {
