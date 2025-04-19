@@ -1,6 +1,6 @@
 package com.solid.isp.examples.v2.after;
 
-public class TelefoneCelularImpl implements TelefoneCelular {
+public class TelefoneCelularImpl implements TelefoneCelular, TelefoneComum {
 
     @Override
     public void tocar() {
