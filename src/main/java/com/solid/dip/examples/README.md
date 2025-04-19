@@ -8,7 +8,7 @@ Exemplos:
 V1: 
 -------------------------------------
 No exemplo 1 no before a classe EmailService depende de uma implementação de Notification, isso
-viola o princípio DIP do SOLID pois implementações causa muitas dependencias. 
+viola o princípio DIP do SOLID pois implementações causam muitas dependencias. 
 Na refatoração a classe EmailService implementa uma interface MessageService, e a classe Notification
 depende dessa interface para enviar email, isso é o correto no DIP pois classes devem depender
 de abstrações nunca de implementações. 

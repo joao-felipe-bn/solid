@@ -1,4 +1,4 @@
-LSP:
+Liskov Substitution Principle (LSP)
 
 **Subclasses devem ser substituíveis por suas classes bases sem alterar o comportamento. Ou seja, objetos de uma classe derivada devem ser substituíveis por objetos da classe base sem alterar o comportamento correto do programa.**
 

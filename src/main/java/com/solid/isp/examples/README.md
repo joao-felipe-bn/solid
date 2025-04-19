@@ -1,4 +1,4 @@
-ISP: Interface Segregation Principle
+Interface Segregation Principle (ISP)
 
 **Classes não devem ser forçados a depender de interfaces que eles não usam.**
 

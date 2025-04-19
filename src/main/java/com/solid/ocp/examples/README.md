@@ -1,4 +1,4 @@
-SRP:
+Open Closed Principle (OCP)
 
 **Você deve ser capaz de estender um comportamento de uma classe sem a necessidade de modificá-lo**
 

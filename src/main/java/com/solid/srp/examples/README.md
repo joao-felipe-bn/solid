@@ -1,15 +1,11 @@
-SRP:
+Single Responsability Principle (SRP)
 
 **Uma classe deve ter um, e somente um, motivo para ser modificada**
-
 
 Exemplos:
 
 -------------------------------------
 V1: 
--------------------------------------
-Exemplo do artigo:
-https://medium.com/@tbaragao/solid-s-r-p-single-responsibility-principle-2760ff4a7edc
 -------------------------------------
 **Before:**
 Classe [GerarNotaFiscal.java] contém muitas responsábilidades, quebrando o princípio de responsábilidade única. 
